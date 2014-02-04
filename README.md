@@ -29,12 +29,12 @@ you can set the options for the plugin as shown below
 
 `````javascript
 $(function () {
-$(this).scrollUp({
-color: "light", 		//make the background light or dark
-position: "right", 	    //position the element on bottom right or left
-verticalpixel:"200",     //set the position in y-axis to show the scroll element
-scrollto:"10px" 		// set the destination pixels from top
-});
+    $(this).scrollUp({
+        color: "light", 		//make the background light or dark
+        position: "right", 	    //position the element on bottom right or left
+        verticalpixel:"200",     //set the position in y-axis to show the scroll element
+        scrollto:"10px" 		// set the destination pixels from top
+    });
 });
 `````
 
