@@ -39,4 +39,4 @@ $(function () {
 `````
 
 ----------------------------------------------------------------
-Developed by :Krishna Teja @ www.packetcode.com
+A <a href="http://www.packetcode.com">packetcode</a> production - Developed by : Krishna Teja 
