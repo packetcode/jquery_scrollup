@@ -39,4 +39,4 @@ $(function () {
 `````
 
 ----------------------------------------------------------------
-Developed by :Krishna Teja @www.packetcode.com
+Developed by :Krishna Teja @ www.packetcode.com
